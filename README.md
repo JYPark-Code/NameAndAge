@@ -2,8 +2,8 @@
 * My Code(First Attempt) + Error fixed by lecture guide.
 
 ## How it works?
-* you can add name and age (greater than 0)
-* error check for empty input and proper age. (modal)
+* You can make list adding name and age (greater than 0)
+* Error check for empty input and proper age. (modal)
 * 이름과 나이를 받아 밑에 표시하는 웹
 * 에러 모달창을 빈칸 또는 0보다 낮은 나이를 기입했을 때 표시.
 
