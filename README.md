@@ -22,7 +22,8 @@ module.css 같은 경우 일단 사이트를 완성 후 적용할려고 했는�
 ![screencapture-localhost-3001-2021-07-20-18_55_28](https://user-images.githubusercontent.com/17328659/126304247-8b49c4cb-49a6-4f4a-978c-6e170c01b0da.png)
 
 ### 내 화면 (My Job):
-![screencapture-localhost-3000-2021-07-20-18_56_28](https://user-images.githubusercontent.com/17328659/126304534-c9e28a95-45a2-45a3-91fa-037c9b07b32c.png)
-------------------
 ![screencapture-localhost-3000-2021-07-20-18_56_04](https://user-images.githubusercontent.com/17328659/126304525-4f4b6104-a669-49ae-9495-eac65a1a5604.png)
+------------------
+### Error Modal:
+![screencapture-localhost-3000-2021-07-20-18_56_28](https://user-images.githubusercontent.com/17328659/126304534-c9e28a95-45a2-45a3-91fa-037c9b07b32c.png)
 ![screencapture-localhost-3000-2021-07-20-18_56_52](https://user-images.githubusercontent.com/17328659/126304530-7418db5e-2063-4817-8542-7c08b9cd4d28.png)
